@@ -53,8 +53,17 @@ body {
     .sidenav a {font-size: 18px;}
   }
 
-  h2 {
+  .sidenav h2 {
       margin-left: .5em;
+      color: whitesmoke;
+  }
+
+  #lastname {
+      margin-left: 2.5em;
+  }
+
+  .name {
+      letter-spacing: .5em;
   }
 
   span {
